@@ -1,0 +1,4 @@
+#Wed Aug 25 23:44:00 IST 2021
+base.0=/home/AllRounderTushar/Documents/internship/Trending/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
