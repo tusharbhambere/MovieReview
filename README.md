@@ -1,4 +1,5 @@
 Riverpod+Dio
-<img src="screenshot/screen.jpeg" width=500>
-![](screenshot/screen.jpeg)
-![](screenshot/screen1.jpeg)
+<img src="screenshot/screen.jpeg" width=400>
+
+<img src="screenshot/screen.jpeg" width=400>
+
